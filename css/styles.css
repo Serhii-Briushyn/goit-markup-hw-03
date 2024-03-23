@@ -44,9 +44,8 @@ img {
 
 .header-container {
   display: flex;
-  margin-left: 156px;
-  margin-right: 156px;
   justify-content: space-between;
+  margin: 0 auto;
 }
 
 .header-nav {
